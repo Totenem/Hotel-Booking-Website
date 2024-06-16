@@ -18,10 +18,17 @@ This project is a Hotel Booking Website built with PHP, HTML/CSS, and JavaScript
 
 ## Installation
 
-1. **Clone the repository:**
+1. **Get The Files**
 
-   ```bash
-   git clone https://github.com/Totenem/Hotel-Booking-Website.git
+   **From GitHub:**
+   - Clone the repository:
+     ```bash
+     git clone https://github.com/Totenem/Hotel-Booking-Website.git
+     ```
+
+   **From Google Drive (Only for City College of Calamba users):**
+   - [Download Zip File](https://drive.google.com/drive/folders/18vlXwJz3W54UEq3k15gFuHxt2L3873hs?usp=drive_link)
+   
 2. **Import the database schema:**
 
    - Import `HOTEL DB FINAL.sql` into your MySQL database.
@@ -37,7 +44,8 @@ This project is a Hotel Booking Website built with PHP, HTML/CSS, and JavaScript
 5. **Access the website:**
 
    - Open your web browser and visit: `http://localhost/Hotel-Booking-Website`
-   ## Usage
+
+## Usage
 
 ### User Access:
 - Browse hotels and their details.
@@ -66,4 +74,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 For issues or inquiries related to the project, please open an issue on [GitHub](https://github.com/Totenem/Hotel-Booking-Website/issues) or contact the project maintainers:
 
-- **Maintainer:** [Michael Ashley Ygana](mailto:yganamichaelashley@gmail.com), [Kristine Apostol Potolin](mailto:kapotolin@ccc.edu.ph), [Jannah Exprescion](mailto:jrexprescion@ccc.edu.ph), [Mark Angelo Tolentino](mailto:mbtolentino@ccc.edu.ph).
+- **Maintainers:**
+  - [Michael Ashley Ygana](mailto:yganamichaelashley@gmail.com)
+  - [Kristine Apostol Potolin](mailto:kapotolin@ccc.edu.ph)
+  - [Jannah Exprescion](mailto:jrexprescion@ccc.edu.ph)
+  - [Mark Angelo Tolentino](mailto:mbtolentino@ccc.edu.ph)
