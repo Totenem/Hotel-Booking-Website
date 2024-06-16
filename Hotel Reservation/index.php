@@ -252,42 +252,6 @@ if (isset($_GET['check_login'])) {
     </div>
   </div>
 
-  <!--Checking Rooms-->
-  <div class="container form-avail" id="bookings">
-    <div class="row">
-      <div class="text-white col-lg-12 p-4 shadow" style="background: #663AB5; border-radius: 15px;">
-        <h4 style="font-weight: 500;" class="mb-1">Check Available Rooms</h4>
-        <form>
-          <div class="row align-items-end">
-            <div class="col-lg-5 mb-3">
-              <label class="form-label mt-3" style="font-weight: 600;">Location</label>
-              <select class="form-select shadow-none">
-                <option selected></option>
-                <option value="1">Sunset Inn</option>
-                <option value="2">Mountain View</option>
-                <option value="3">City Central</option>
-                <option value="4">All</option>
-              </select>
-            </div>
-            <div class="col-lg-5 mb-3">
-              <label class="form-label mt-3" style="font-weight: 600;">Type Of Room</label>
-              <select class="form-select shadow-none">
-                <option selected></option>
-                <option value="1">Standard Room</option>
-                <option value="2">Deluxe Room</option>
-                <option value="3">Penthouse Rooms</option>
-                <option value="4">All</option>
-              </select>
-            </div>
-            <div class="col-lg-1 mb-lg-3 mt-2">
-              <button type="button" class="btn ps-5 pe-5 custom-bg1 shadow-lg">Search</button>
-            </div>
-          </div>
-        </form>
-      </div>
-    </div>
-  </div>
-
   <!--Rooms-->
 
   <h1 class="mt-5 pt-4 mb-5 text-center fw-bold" style="font-size: 50px; color: #6947BB;" id="rooms">Our Rooms</h1>
